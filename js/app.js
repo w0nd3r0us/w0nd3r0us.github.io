@@ -44,7 +44,7 @@ function init() {
   renderer.setSize( window.innerWidth, window.innerHeight );
   container.appendChild(renderer.domElement);
   stats = new Stats();
-  container.appendChild( stats.dom );
+  // container.appendChild( stats.dom );
   document.addEventListener( 'mousedown', onDocumentMouseDown, false );
   document.addEventListener( 'touchstart', onDocumentTouchStart, false );
   //
