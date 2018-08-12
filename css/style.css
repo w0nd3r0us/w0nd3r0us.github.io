@@ -1,2 +1,27 @@
-body { margin: 0; }
-canvas { width: 100%; height: 100% }
+body {
+	font-family: Monospace;
+	background-color: #f0f0f0;
+	margin: 0px;
+	overflow: hidden;
+}
+
+canvas {
+	width: 100%;
+	height: 100%
+}
+#container {
+  width: 100px;
+  height: 100px;
+  position: relative;
+}
+#text,
+#3d {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+#3d {
+  z-index: 10;
+}
