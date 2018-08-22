@@ -1,4 +1,4 @@
-var container;
+			var container, stats;
 			var camera, scene, renderer;
 
 			var raycaster;
@@ -8,13 +8,13 @@ var container;
 			function init() {
 				container = document.createElement( 'div' );
 				document.body.appendChild( container );
-				// var info = document.createElement( 'div' );
-				// info.style.position = 'absolute';
-				// info.style.top = '10px';
-				// info.style.width = '100%';
-				// info.style.textAlign = 'center';
-				// info.innerHTML = '<a href="http://threejs.org" target="_blank" rel="noopener">three.js</a> - clickable objects';
-				// container.appendChild( info );
+				var info = document.createElement( 'div' );
+				info.style.position = 'absolute';
+				info.style.top = '10px';
+				info.style.width = '100%';
+				info.style.textAlign = 'center';
+				info.innerHTML = '<a href="http://threejs.org" target="_blank" rel="noopener">three.js</a> - clickable objects';
+				container.appendChild( info );
 				camera = new THREE.PerspectiveCamera( 70, window.innerWidth / window.innerHeight, 1, 10000 );
 				camera.position.y = 300;
 				camera.position.z = 500;
@@ -44,7 +44,7 @@ var container;
 				renderer.setSize( window.innerWidth, window.innerHeight );
 				container.appendChild(renderer.domElement);
 				stats = new Stats();
-				// container.appendChild( stats.dom );
+				container.appendChild( stats.dom );
 				document.addEventListener( 'mousedown', onDocumentMouseDown, false );
 				document.addEventListener( 'touchstart', onDocumentTouchStart, false );
 				//
