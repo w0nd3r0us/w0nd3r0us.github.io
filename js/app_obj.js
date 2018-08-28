@@ -9,7 +9,7 @@
     container = document.createElement( 'div' );
     document.body.appendChild( container );
     camera = new THREE.PerspectiveCamera( 45, window.innerWidth / window.innerHeight, 1, 2000 );
-    camera.position.z = 15;
+    camera.position.z = 10;
     // scene
     scene = new THREE.Scene();
     scene.background = new THREE.Color( 0xf0f0f0 );
@@ -35,7 +35,7 @@
           .setMaterials( materials )
           .setPath( 'models/obj/max/' )
           .load( 'baymax.obj', function ( object ) {
-            object.position.y = - 10;
+            object.position.y = - 5;
             scene.add( object );
           }, onProgress, onError );
       } );
@@ -65,8 +65,8 @@
     render();
   }
   function render() {
-    camera.position.x += ( mouseX - camera.position.x ) * .01;
-    camera.position.y += ( - mouseY - camera.position.y ) * .01;
+    camera.position.x += ( mouseX - camera.position.x ) * .005;
+    camera.position.y += ( - mouseY - camera.position.y ) * .005;
     camera.lookAt( scene.position );
     renderer.render( scene, camera );
   }

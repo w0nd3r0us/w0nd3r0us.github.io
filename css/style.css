@@ -7,7 +7,7 @@ body {
 
 .topnav {
   overflow: hidden;
-  background-color: #333;
+  background-color: #2c2f33;
 }
 
 .topnav a {
@@ -126,3 +126,13 @@ canvas {
   top: 0;
   left: 0;
 	z-index: 0;
+}
+
+#info {
+				color: black;
+				position: absolute;
+				top: 30px;
+				width: 100%;
+				text-align: center;
+				display:block;
+			}
