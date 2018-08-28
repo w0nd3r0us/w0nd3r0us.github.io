@@ -1,0 +1,309 @@
+newmtl baymax_body:blinn2SG
+illum 4
+Kd 0.15 0.15 0.15
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl baymax_body:lambert3SG
+illum 4
+Kd 0.15 0.15 0.15
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl baymax_body1:blinn2SG
+illum 4
+Kd 0.15 0.15 0.15
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl baymax_body1:lambert3SG
+illum 4
+Kd 0.15 0.15 0.15
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl baymaxgiap:blinn1SG
+illum 4
+Kd 1.00 1.00 1.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl baymaxgiap:blinn2SG
+illum 4
+Kd 0.15 0.15 0.15
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl baymaxgiap:blinn7SG
+illum 4
+Kd 0.75 0.10 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl baymaxgiap:blinn8SG
+illum 4
+Kd 0.78 0.19 0.12
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.95 0.90 0.90
+newmtl baymaxgiap:blinn9SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.78 0.78 0.78
+newmtl baymaxgiap:blinn10SG
+illum 4
+Kd 0.75 0.10 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl baymaxgiap:blinn11SG
+illum 4
+Kd 0.75 0.10 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl baymaxgiap:blinn12SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.31 0.31 0.31
+newmtl baymaxgiap:daugiap:lambert10SG
+illum 4
+Kd 1.00 0.28 0.16
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 0.06
+newmtl baymaxgiap:lambert3SG
+illum 4
+Kd 0.15 0.15 0.15
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl baymaxgiap:lambert5SG
+illum 4
+Kd 0.78 0.78 0.78
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl baymaxgiap:lambert6SG
+illum 4
+Kd 0.85 0.85 0.85
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl baymaxgiap:lambert9SG
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl baymaxgiap:lambert11SG
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl baymaxgiap:taybm:anisotropic1SG
+illum 4
+Kd 0.67 0.67 0.67
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+newmtl baymaxgiap:taybm:blinn2SG
+illum 4
+Kd 0.86 0.21 0.13
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.95 0.90 0.90
+newmtl baymaxgiap:taybm:blinn3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.31 0.31 0.31
+newmtl blinn3SG
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.10 0.10 0.10
+newmtl giapbaymaxfull:blinn1SG
+illum 4
+Kd 1.00 1.00 1.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl giapbaymaxfull:blinn2SG
+illum 4
+Kd 0.15 0.15 0.15
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl giapbaymaxfull:blinn7SG
+illum 4
+Kd 0.75 0.10 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl giapbaymaxfull:blinn8SG
+illum 4
+Kd 0.75 0.10 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl giapbaymaxfull:blinn9SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.78 0.78 0.78
+newmtl giapbaymaxfull:blinn10SG
+illum 4
+Kd 0.84 0.20 0.12
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.95 0.90 0.90
+newmtl giapbaymaxfull:blinn11SG
+illum 4
+Kd 0.75 0.10 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl giapbaymaxfull:blinn12SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.31 0.31 0.31
+newmtl giapbaymaxfull:blinn15SG
+illum 4
+Kd 0.86 0.21 0.13
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.95 0.90 0.90
+newmtl giapbaymaxfull:blinn20SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd -mm 0.131243 0.556222 textbungnhat2.jpg
+bump -mm 0 0.368856 bumptextbung.jpg -bm 1
+Ni 1.00
+Ks 0.31 0.31 0.31
+newmtl giapbaymaxfull:blinn21SG
+illum 4
+Kd 0.22 0.22 0.22
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl giapbaymaxfull:blinn23SG
+illum 4
+Kd 0.29 0.28 0.45
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.26 0.26 0.26
+newmtl giapbaymaxfull:blinn24SG
+illum 4
+Kd 0.26 0.23 0.43
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl giapbaymaxfull:blinn29SG
+illum 4
+Kd 1.00 0.24 0.15
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.95 0.90 0.90
+newmtl giapbaymaxfull:blinn30SG
+illum 4
+Kd 0.76 0.14 0.06
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.95 0.90 0.90
+newmtl giapbaymaxfull:daugiap:lambert10SG
+illum 4
+Kd 1.00 0.28 0.16
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 0.06
+newmtl giapbaymaxfull:lambert3SG
+illum 4
+Kd 0.15 0.15 0.15
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl giapbaymaxfull:lambert5SG
+illum 4
+Kd 0.78 0.78 0.78
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl giapbaymaxfull:lambert6SG
+illum 4
+Kd 0.85 0.85 0.85
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl giapbaymaxfull:lambert9SG
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl giapbaymaxfull:lambert11SG
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl giapbaymaxfull:lambert14SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.18 0.13 0.28
+Tf 1.00 1.00 1.00
+map_Kd -mm 0.0910048 0.279197 textbung.jpg
+bump bumpbung.jpg -bm 1
+Ni 1.00
+Ks 0.18 0.18 0.18
+newmtl giapbaymaxfull:taybm:blinn3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.31 0.31 0.31
+newmtl initialShadingGroup
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
