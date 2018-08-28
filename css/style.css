@@ -129,10 +129,30 @@ canvas {
 }
 
 #info {
-				color: black;
 				position: absolute;
-				top: 30px;
+				top: 45px;
 				width: 100%;
 				text-align: center;
 				display:block;
-			}
+}
+
+.fa-envelope-square {
+	color: #4CAF50;
+}
+.fa-linkedin-square {
+  color: #1985bc;
+}
+.fa-twitter-square {
+  color: #1da1f2;
+}
+.fa-google-plus-square {
+  color: #db4437
+}
+.fa-github-square {
+	color: #333
+}
+.fa-instagram {
+	background: -webkit-linear-gradient(#833ab4, #fcaf45);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
