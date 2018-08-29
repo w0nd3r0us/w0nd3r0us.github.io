@@ -8,6 +8,7 @@ body {
 .topnav {
   overflow: hidden;
   background-color: #2c2f33;
+	z-index: 1;
 }
 
 .topnav a {
